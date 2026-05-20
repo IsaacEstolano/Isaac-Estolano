@@ -9,13 +9,15 @@
 - Node.js
 - Express
 - SQL
-- -MongoDB
+- MongoDB
 - Git
 
 📚 Atualmente estudando:
 - C++
 - Estruturas de Dados
 - Testes com Jest
+- API REST
+- Autenticação com JWT
 - Docker
 
 📫 Contato:
