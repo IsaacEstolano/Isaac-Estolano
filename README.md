@@ -8,7 +8,8 @@
 - JavaScript
 - Node.js
 - Express
-- PostgreSQL
+- SQL
+- -MongoDB
 - Git
 
 📚 Atualmente estudando:
@@ -18,5 +19,5 @@
 - Docker
 
 📫 Contato:
-LinkedIn:www.linkedin.com/in/isaac-estolano
-gmail:estolano05@gmail.com
+-LinkedIn:www.linkedin.com/in/isaac-estolano
+-Gmail:estolano05@gmail.com
